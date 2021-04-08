@@ -1,1 +1,1 @@
-# CSE523-Machine-Learning-Binary-Beasts
+# CSE523 Machine Learning Binary Beasts
