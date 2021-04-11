@@ -1,6 +1,7 @@
 File "Accuracy_Result.PNG" contains accuracy results of train and test dataset for different models implemented in this project.
 File "MSE_Result.PNG" contains mean square error comparison bar graph for linear regression, ridge regression and lasso regression.
 
+## Accuracy Results
 
 | Model                                                         | Train Data Accuracy | Test Data Accuracy |
 | ------------------------------------------------------------- | ------------------- | ------------------ |
