@@ -10,4 +10,4 @@ File "MSE_Result.PNG" contains mean square error comparison bar graph for linear
 | Polinomial Regression                                         | 64%                 | 63%                |
 | Random Forest Regression                                      | 92%                 | 54%                |
 
-![alt text](Accuracy_Result.PNG)
+![alt text](https://github.com/nirvasangani/CSE523-Machine-Learning-Binary-Beasts/blob/main/Results/Accuracy_Result.PNG)
