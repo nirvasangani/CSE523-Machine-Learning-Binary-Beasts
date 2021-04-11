@@ -3,7 +3,8 @@
 ## Project Introduction:
 With the increase in population the demand for buying houses is increasing as well. The price prediction for a house depends on various parameters like the location of the house, area, number of bedrooms etc. As price varies with these parameters, a challenge to make a model that accurately predicts the price emerges. This project explores techniques like linear regression with maximum likelihood estimation and gradient boosting, polynomial regression and random forest regression algorithm to predict the price of house in Mumbai city.
 
-## Results: 
+## Results:
+ 
 ## References:
 1. https://www.kaggle.com/sameep98/housing-prices-in-mumbai
 2. J. Manasa, R. Gupta and N. S. Narahari, "Machine Learning based Predicting House Prices using Regression Techniques," 2020 2nd International Conference on Innovative Mechanisms for Industry Applications (ICIMIA), Bangalore, India, 2020, pp. 624-630, doi: 10.1109/ICIMIA48430.2020.9074952.
