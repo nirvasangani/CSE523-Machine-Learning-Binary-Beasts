@@ -15,7 +15,7 @@ With the increase in population the demand for buying houses is increasing as we
 | Polynomial Regression                                         | 64%                 | 63%                |
 | Random Forest Regression                                      | 92%                 | 54%                |
 
-### Mean Square Error Comparision
+### Mean Square Error Comparision:
 
 ![img](https://github.com/nirvasangani/CSE523-Machine-Learning-Binary-Beasts/blob/main/Results/MSE_Result.PNG)
 
