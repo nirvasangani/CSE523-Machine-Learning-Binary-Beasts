@@ -5,7 +5,7 @@ With the increase in population the demand for buying houses is increasing as we
 
 ## Results:
 
-### Accuracy Results
+### Accuracy Results:
 
 | Model                                                         | Train Data Accuracy | Test Data Accuracy |
 | ------------------------------------------------------------- | ------------------- | ------------------ |
