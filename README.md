@@ -4,6 +4,21 @@
 With the increase in population the demand for buying houses is increasing as well. The price prediction for a house depends on various parameters like the location of the house, area, number of bedrooms etc. As price varies with these parameters, a challenge to make a model that accurately predicts the price emerges. This project explores techniques like linear regression with maximum likelihood estimation and gradient boosting, polynomial regression and random forest regression algorithm to predict the price of house in Mumbai city.
 
 ## Results:
+
+### Accuracy Results:
+
+| Model                                                         | Train Data Accuracy | Test Data Accuracy |
+| ------------------------------------------------------------- | ------------------- | ------------------ |
+| Linear Regression (Library)                                   | 54%                 | 47%                |     
+| Linear Regression with Maximum Likelihood Estimation(Scratch) | 54%                 | 47%                |
+| Gradient Boosting Regression                                  | 93%                 | 49%                |
+| Polynomial Regression                                         | 64%                 | 63%                |
+| Random Forest Regression                                      | 92%                 | 54%                |
+
+### Mean Square Error Comparision
+
+![img](MSE_Result.PNG)
+
  
 ## References:
 1. https://www.kaggle.com/sameep98/housing-prices-in-mumbai
