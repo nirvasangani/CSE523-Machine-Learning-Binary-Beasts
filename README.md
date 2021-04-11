@@ -17,7 +17,7 @@ With the increase in population the demand for buying houses is increasing as we
 
 ### Mean Square Error Comparision
 
-![img](MSE_Result.PNG)
+![img](https://github.com/nirvasangani/CSE523-Machine-Learning-Binary-Beasts/blob/main/Results/MSE_Result.PNG)
 
  
 ## References:
