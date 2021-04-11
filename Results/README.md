@@ -11,3 +11,6 @@ File "MSE_Result.PNG" contains mean square error comparison bar graph for linear
 | Random Forest Regression                                      | 92%                 | 54%                |
 
 ![img](https://github.com/nirvasangani/CSE523-Machine-Learning-Binary-Beasts/blob/main/Results/Accuracy_Result.PNG)
+![img](MSE_Result.PNG)
+
+![img](https://github.com/nirvasangani/CSE523-Machine-Learning-Binary-Beasts/blob/main/Results/MSE_Result.PNG)
