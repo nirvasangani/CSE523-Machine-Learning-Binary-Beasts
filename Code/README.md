@@ -1,4 +1,4 @@
-File "Linear_Regression_Library.py" contains Python implementation of linear regression and gradient boosting model by using Python libraries.
-File "Polynomial_Regression_Library.py" contains Python implementatiom of polynomial regression for degrees = 2, 3, 4 by using Python libraries.
-File "Random_Forest_Regression_Library.py" contains Python implementatiom of random forest regression model by using Python libraries.
-File "Linear_Regression_Scratch_Ridge_Lasso.py" contains implementation of linear regression from scratch and comparison of linear regression with Ridge and Lasso regressions in terms of mean square error.
+- File "Linear_Regression_Library.py" contains Python implementation of linear regression and gradient boosting model by using Python libraries.
+- File "Polynomial_Regression_Library.py" contains Python implementatiom of polynomial regression for degrees = 2, 3, 4 by using Python libraries.
+- File "Random_Forest_Regression_Library.py" contains Python implementatiom of random forest regression model by using Python libraries.
+- File "Linear_Regression_Scratch_Ridge_Lasso.py" contains implementation of linear regression from scratch and comparison of linear regression with Ridge and Lasso regressions in terms of mean square error.

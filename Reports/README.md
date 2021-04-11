@@ -1,3 +1,3 @@
-All "Weekly_Report_<number>_Binary_Beasts.docx" files contain tasks performed during particular week, outcomes of the tasks performed and tasks to be performed in upcoming week
-File "Binary_Beasts_Mid_Sem_Project_Report.pdf" contains project report of work done till mid semester project presentation and evaluation conducted on March 18, 2021.
-File "Binary_Beasts_End_Sem_Project_Report.pdf" contains project report of work done till end semester project submission, submitted on April 11, 2021.
+- All "Weekly_Report_<number>_Binary_Beasts.docx" files contain tasks performed during particular week, outcomes of the tasks performed and tasks to be performed in upcoming week
+- File "Binary_Beasts_Mid_Sem_Project_Report.pdf" contains project report of work done till mid semester project presentation and evaluation conducted on March 18, 2021.
+- File "Binary_Beasts_End_Sem_Project_Report.pdf" contains project report of work done till end semester project submission, submitted on April 11, 2021.

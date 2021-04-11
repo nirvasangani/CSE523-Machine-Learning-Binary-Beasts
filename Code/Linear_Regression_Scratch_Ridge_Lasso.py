@@ -45,7 +45,7 @@ from sklearn.feature_selection import chi2
 Categorical_X = data_X.astype(int)
 
 chi2_features = SelectKBest(chi2,k=5)
-selected_X = chi2_features.fit_transform(Categorical_X, Y) # selected features
+selected_X = chi2_features.fit_transform(Categorical_X, data_Y) # selected features
 
 print('Ori: ', Categorical_X.shape[1])
 print('Red: ', selected_X.shape[1])
@@ -105,7 +105,7 @@ augmented_theta = calculate_augmented_theta(X_augmented, Y_test)
 print(augmented_theta)
 
 X_test_augmented = np.hstack([np.ones((X_test.shape[0],1)), X_test]) 
-Y_test_predicted = calculate_price(Xtest_aug, augmented_theta)
+Y_test_predicted = calculate_price(X_test_augmented, augmented_theta)
 
 from sklearn.metrics import r2_score
 r2_score(Y_test, Y_test_predicted)
@@ -166,7 +166,7 @@ print(lasso_regression.best_score_)
 
 types = ['Linear', 'Ridge', 'Lasso'] 
 mean_square_errors = [mse_linear_regression, mse_ridge_regression, mse_lasso_regression] 
-plt.bar(models, mean_square_errors) 
+plt.bar(types, mean_square_errors) 
 plt.xlabel('Regression') 
 plt.ylabel('Mean Square Error') 
 plt.show()
